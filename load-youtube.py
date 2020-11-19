@@ -11,7 +11,7 @@ for stream in videos:
 	a += 1
 stream_number = int(input("enter number quality video :"))
 video = videos[stream_number-1]
-video.download("C:/Users/slilo/Videos")
+video.download("C:/Users/tayaq/Videos")
 
 print ("downloaded")
 
